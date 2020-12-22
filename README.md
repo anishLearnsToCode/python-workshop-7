@@ -10,9 +10,9 @@
     Break Timings: 11:00 AM - 12:00 AM (11 - 12)
 </details>
 
-[Workshop Link (Zoom) 📺]()
-[Class Recordings 📽]()
-[Course Flow 🌊](course-flow.md)
+📺 [Workshop Link (Zoom)]() |
+📽 [Class Recordings]() |
+🌊 [Course Flow](course-flow.md)
 
 ## Index
 - [Introduction](#introduction)
