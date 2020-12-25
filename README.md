@@ -11,7 +11,7 @@
 </details>
 
 📺 [Workshop Link (Zoom)](https://us02web.zoom.us/j/85024093659?pwd=MHV0RmVvczJubUptY2pFYUVhNnRYUT09) |
-📽 [Class Recordings]() |
+📽 [Class Recordings (Coming soon!)]() |
 🌊 [Course Flow](course-flow.md)
 
 ## Index
@@ -40,8 +40,10 @@ will be you sitting down (or standing) and writing code. No book or resource can
 So, what are you waiting for 😀😉 - try as many questions (below or otherwise) as you can.... 🐱‍👤    
 Happy Coding :octocat: 🐱‍💻 
 
-You can stalk your instructor on [LinkedIn](https://www.linkedin.com/in/anishsachdeva1998/) &
-[GitHub](https://github.com/anishLearnsToCode).
+You can stalk your instructor on 
+[LinkedIn](https://www.linkedin.com/in/anishsachdeva1998/), 
+[GitHub](https://github.com/anishLearnsToCode) &
+[Instagram](https://www.instagram.com/anish.sachdeva_/).
 
 ## Getting Started With Python
 We need to install and configure a few things before we can write and run any Python code. To write Python code we 
