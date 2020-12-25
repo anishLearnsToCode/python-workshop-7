@@ -24,6 +24,7 @@
 1. Range Object
 1. For Loop
 1. Iterating over strings
+1. Loop Control Flow Statements `break` & `continue`
 
 ## Functions
 1. The `return` keyword
