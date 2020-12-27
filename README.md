@@ -176,6 +176,16 @@ python hello_world.py
 ## [Day 2](https://github.com/anishLearnsToCode/python-workshop-7/tree/master/day_2)
 
 ### Topics Covered
+- [List Input](day_2/taking_list_input.py)
+- [Map Operator](day_2/map_operator.py)
+- [Tuple](day_2/tuple.py)
+- [Dictionary](day_2/dictionary.py)
+- [Frequency Dictionary](day_2/frequency_dict.py)
+- [Complex Dictionary](day_2/complex_dictionary.py)
+- [Iterating a Dictionary](day_2/iterating_dict.py)
+- [Inbuilt Functions](day_2/inbuilt_functions.py)
+- [Math Package](day_2/math_package.py)
+- [Random Package](day_2/random_package.py)
 
 ### Sample Questions
 | Question | Solution Link |
